@@ -1,0 +1,9 @@
+C:\Users\trinh\Desktop\Dang_Nhap\InforCient\bin\Debug\InforCient.exe
+C:\Users\trinh\Desktop\Dang_Nhap\InforCient\bin\Debug\InforCient.pdb
+C:\Users\trinh\Desktop\Dang_Nhap\InforCient\obj\Debug\InforCient.csprojAssemblyReference.cache
+C:\Users\trinh\Desktop\Dang_Nhap\InforCient\obj\Debug\InforCient.Form1.resources
+C:\Users\trinh\Desktop\Dang_Nhap\InforCient\obj\Debug\InforCient.Properties.Resources.resources
+C:\Users\trinh\Desktop\Dang_Nhap\InforCient\obj\Debug\InforCient.csproj.GenerateResource.cache
+C:\Users\trinh\Desktop\Dang_Nhap\InforCient\obj\Debug\InforCient.csproj.CoreCompileInputs.cache
+C:\Users\trinh\Desktop\Dang_Nhap\InforCient\obj\Debug\InforCient.exe
+C:\Users\trinh\Desktop\Dang_Nhap\InforCient\obj\Debug\InforCient.pdb
